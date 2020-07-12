@@ -16,6 +16,7 @@
 		F29352F124B16B61009DFF04 /* MyProjectCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29352F024B16B61009DFF04 /* MyProjectCard.swift */; };
 		F29352F324B16FA2009DFF04 /* MyBasicCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29352F224B16FA2009DFF04 /* MyBasicCard.swift */; };
 		F2AACB8324B96C5E003F86B1 /* MyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AACB8224B96C5E003F86B1 /* MyCard.swift */; };
+		F2D8FE5124BAC00500D9A608 /* MyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D8FE5024BAC00500D9A608 /* MyList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F29352F024B16B61009DFF04 /* MyProjectCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProjectCard.swift; sourceTree = "<group>"; };
 		F29352F224B16FA2009DFF04 /* MyBasicCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBasicCard.swift; sourceTree = "<group>"; };
 		F2AACB8224B96C5E003F86B1 /* MyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCard.swift; sourceTree = "<group>"; };
+		F2D8FE5024BAC00500D9A608 /* MyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				F29352E724B16B1B009DFF04 /* LaunchScreen.storyboard */,
 				F29352EA24B16B1B009DFF04 /* Info.plist */,
 				F29352E424B16B1B009DFF04 /* Preview Content */,
+				F2D8FE5024BAC00500D9A608 /* MyList.swift */,
 			);
 			path = SwiftUI_stack_pratice_tutorial;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 				F29352F124B16B61009DFF04 /* MyProjectCard.swift in Sources */,
 				F29352DF24B16B19009DFF04 /* SceneDelegate.swift in Sources */,
 				F29352E124B16B19009DFF04 /* ContentView.swift in Sources */,
+				F2D8FE5124BAC00500D9A608 /* MyList.swift in Sources */,
 				F2AACB8324B96C5E003F86B1 /* MyCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
