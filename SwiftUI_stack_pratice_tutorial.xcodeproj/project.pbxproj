@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F2780A2024BD96F80001A11F /* MyNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2780A1F24BD96F80001A11F /* MyNavigationView.swift */; };
+		F2780A2224BD9AF90001A11F /* MyProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2780A2124BD9AF90001A11F /* MyProfileView.swift */; };
+		F2780A2424BD9B440001A11F /* MyCircleImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2780A2324BD9B440001A11F /* MyCircleImageView.swift */; };
 		F29352DD24B16B19009DFF04 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29352DC24B16B19009DFF04 /* AppDelegate.swift */; };
 		F29352DF24B16B19009DFF04 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29352DE24B16B19009DFF04 /* SceneDelegate.swift */; };
 		F29352E124B16B19009DFF04 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F29352E024B16B19009DFF04 /* ContentView.swift */; };
@@ -20,6 +23,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F2780A1F24BD96F80001A11F /* MyNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyNavigationView.swift; sourceTree = "<group>"; };
+		F2780A2124BD9AF90001A11F /* MyProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProfileView.swift; sourceTree = "<group>"; };
+		F2780A2324BD9B440001A11F /* MyCircleImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCircleImageView.swift; sourceTree = "<group>"; };
 		F29352D924B16B19009DFF04 /* SwiftUI_stack_pratice_tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI_stack_pratice_tutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F29352DC24B16B19009DFF04 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F29352DE24B16B19009DFF04 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,13 +74,16 @@
 				F29352DE24B16B19009DFF04 /* SceneDelegate.swift */,
 				F29352E024B16B19009DFF04 /* ContentView.swift */,
 				F29352F024B16B61009DFF04 /* MyProjectCard.swift */,
+				F2780A2124BD9AF90001A11F /* MyProfileView.swift */,
+				F2780A2324BD9B440001A11F /* MyCircleImageView.swift */,
 				F29352F224B16FA2009DFF04 /* MyBasicCard.swift */,
 				F2AACB8224B96C5E003F86B1 /* MyCard.swift */,
+				F2D8FE5024BAC00500D9A608 /* MyList.swift */,
+				F2780A1F24BD96F80001A11F /* MyNavigationView.swift */,
 				F29352E224B16B1B009DFF04 /* Assets.xcassets */,
 				F29352E724B16B1B009DFF04 /* LaunchScreen.storyboard */,
 				F29352EA24B16B1B009DFF04 /* Info.plist */,
 				F29352E424B16B1B009DFF04 /* Preview Content */,
-				F2D8FE5024BAC00500D9A608 /* MyList.swift */,
 			);
 			path = SwiftUI_stack_pratice_tutorial;
 			sourceTree = "<group>";
@@ -158,8 +167,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F2780A2424BD9B440001A11F /* MyCircleImageView.swift in Sources */,
 				F29352DD24B16B19009DFF04 /* AppDelegate.swift in Sources */,
+				F2780A2224BD9AF90001A11F /* MyProfileView.swift in Sources */,
 				F29352F324B16FA2009DFF04 /* MyBasicCard.swift in Sources */,
+				F2780A2024BD96F80001A11F /* MyNavigationView.swift in Sources */,
 				F29352F124B16B61009DFF04 /* MyProjectCard.swift in Sources */,
 				F29352DF24B16B19009DFF04 /* SceneDelegate.swift in Sources */,
 				F29352E124B16B19009DFF04 /* ContentView.swift in Sources */,
