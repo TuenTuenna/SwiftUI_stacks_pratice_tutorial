@@ -22,7 +22,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Create the SwiftUI view that provides the window contents.
 //        let contentView = ContentView()
         
-          let myView = MyGeometryReaderVStack()
+//          let myView = MyGeometryReaderVStack()
+        let myView = MyTabView()
         
         
 
