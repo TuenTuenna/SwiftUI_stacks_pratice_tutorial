@@ -23,7 +23,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 //        let contentView = ContentView()
         
 //          let myView = MyGeometryReaderVStack()
-        let myView = MyTabView()
+//        let myView = ContentView()
+        let myView = MyCustomTabView(tabIndex: .home)
         
         
 

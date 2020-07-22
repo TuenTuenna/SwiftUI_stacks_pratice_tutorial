@@ -24,6 +24,7 @@
 		F2A7A18124C59AF600321524 /* MyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2A7A18024C59AF600321524 /* MyView.swift */; };
 		F2AACB8324B96C5E003F86B1 /* MyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2AACB8224B96C5E003F86B1 /* MyCard.swift */; };
 		F2D8FE5124BAC00500D9A608 /* MyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D8FE5024BAC00500D9A608 /* MyList.swift */; };
+		F2EE4B9224C871D600719295 /* MyCustomTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2EE4B9124C871D600719295 /* MyCustomTabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		F2A7A18024C59AF600321524 /* MyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyView.swift; sourceTree = "<group>"; };
 		F2AACB8224B96C5E003F86B1 /* MyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCard.swift; sourceTree = "<group>"; };
 		F2D8FE5024BAC00500D9A608 /* MyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyList.swift; sourceTree = "<group>"; };
+		F2EE4B9124C871D600719295 /* MyCustomTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCustomTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				F2D8FE5024BAC00500D9A608 /* MyList.swift */,
 				F2A7A17E24C5991D00321524 /* MyTabView.swift */,
 				F2A7A18024C59AF600321524 /* MyView.swift */,
+				F2EE4B9124C871D600719295 /* MyCustomTabView.swift */,
 				F2780A1F24BD96F80001A11F /* MyNavigationView.swift */,
 				F29352E224B16B1B009DFF04 /* Assets.xcassets */,
 				F29352E724B16B1B009DFF04 /* LaunchScreen.storyboard */,
@@ -184,6 +187,7 @@
 				F2780A2424BD9B440001A11F /* MyCircleImageView.swift in Sources */,
 				F29352DD24B16B19009DFF04 /* AppDelegate.swift in Sources */,
 				F2780A2224BD9AF90001A11F /* MyProfileView.swift in Sources */,
+				F2EE4B9224C871D600719295 /* MyCustomTabView.swift in Sources */,
 				F29352F324B16FA2009DFF04 /* MyBasicCard.swift in Sources */,
 				F2780A2024BD96F80001A11F /* MyNavigationView.swift in Sources */,
 				F29352F124B16B61009DFF04 /* MyProjectCard.swift in Sources */,
